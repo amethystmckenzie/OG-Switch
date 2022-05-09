@@ -9,3 +9,5 @@ Game Features:
 - Moving and stationary enemies
 - Tokens 
 - Timed levels!
+
+I can't upload the entire Unity game to github (it's too large) but feel free to check it out on the app store! Just look for "OG Switch" :)
