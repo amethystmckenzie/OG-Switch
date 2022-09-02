@@ -11,6 +11,9 @@ Game Features:
 
 Feel free to check out the game on the app store! Just look for "OG Switch" in the search bar.
 
+### Documentation
+Attached is the entire documented process of both learning Unity, as this was my first time using the software, and greating OG Switch.
+
 ### Assets
 
 Key Assets include:
